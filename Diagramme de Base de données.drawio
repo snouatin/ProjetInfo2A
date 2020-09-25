@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T02:30:08.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="uanRbiY5NJDPvdpWdy-m" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T02:38:50.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="SUaUdchZWgSrgYkKPw83" version="13.7.5" type="github">
   <diagram id="nvP0q_4fL8uYvyd8b_Zr" name="Page-1">
     <mxGraphModel dx="1983" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kxt7OzJLR1ZBJD5P8w2T-88" value="Ingrédients" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="kxt7OzJLR1ZBJD5P8w2T-88" value="Ingrédient" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-220" y="336" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="kxt7OzJLR1ZBJD5P8w2T-89" value="id_ingredient" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=4" parent="kxt7OzJLR1ZBJD5P8w2T-88" vertex="1">
