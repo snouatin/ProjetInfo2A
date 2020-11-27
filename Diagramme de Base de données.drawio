@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T21:01:54.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="GmHSN5lB4l5BpEqQUzif" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T21:28:11.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="yL8TJb17oLXDxDXovUq4" version="13.7.8" type="github">
   <diagram id="nvP0q_4fL8uYvyd8b_Zr" name="Page-1">
     <mxGraphModel dx="1958" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -137,16 +137,13 @@
           <mxGeometry y="86" width="193" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kxt7OzJLR1ZBJD5P8w2T-88" value="Ingredients" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="138" y="390" width="220" height="116" as="geometry" />
+          <mxGeometry x="138" y="394" width="220" height="86" as="geometry" />
         </mxCell>
         <mxCell id="kxt7OzJLR1ZBJD5P8w2T-89" value="id_ingredient INTEGER" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=4" parent="kxt7OzJLR1ZBJD5P8w2T-88" vertex="1">
           <mxGeometry y="26" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kxt7OzJLR1ZBJD5P8w2T-90" value="nom_ingredient VARCHAR(30)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="kxt7OzJLR1ZBJD5P8w2T-88" vertex="1">
           <mxGeometry y="56" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kxt7OzJLR1ZBJD5P8w2T-91" value="url_image_ingredient VARCHAR(100)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="kxt7OzJLR1ZBJD5P8w2T-88" vertex="1">
-          <mxGeometry y="86" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="teJ75y6w8vdJeHOrKaJJ-1" value="Favoris_api" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="466" y="370" width="160" height="86" as="geometry" />
